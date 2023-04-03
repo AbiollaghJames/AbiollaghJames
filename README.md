@@ -1,6 +1,6 @@
 ### Hi there 👋, **Abiollagh James**
 #### *Software Engineer*
-![*Software Engineer*](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![*Software Engineer*](https:https://github.com/AbiollaghJames/AbiollaghJames/commit/ba4acd9b94c7b1b2d0f721f3f7309c826e7c5be7)
 
 A Software Engineer currently learning C programming, Python and Data Science.
 
