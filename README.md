@@ -1,6 +1,5 @@
 ### Hi there 👋, **Abiollagh James**
 #### *Software Engineer*
-![*Software Engineer*](https:https://github.com/AbiollaghJames/AbiollaghJames/commit/ba4acd9b94c7b1b2d0f721f3f7309c826e7c5be7)
 
 A Software Engineer currently learning C programming, Python and Data Science.
 
@@ -9,9 +8,6 @@ Skills: *REACT / JS / HTML / CSS*
 - 🌱 I’m currently learning C, Python, Machine Learning 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me: abiollajames@protonmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbiollaghJames)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abiollagh-james/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AbiollaghJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@Abiollagh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/AbiollaghJames)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbiollaghJames)](https://github.com/ryo-ma/github-profile-trophy)
 
