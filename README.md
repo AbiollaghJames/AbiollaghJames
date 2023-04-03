@@ -9,8 +9,6 @@ Skills: *REACT / JS / HTML / CSS*
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me: abiollajames@protonmail.com 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbiollaghJames)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiollaghJames)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbiollaghJames&show_icons=true)  
