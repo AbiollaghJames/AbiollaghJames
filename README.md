@@ -1,11 +1,12 @@
 ### Hi there 👋, **Abiollagh James**
 #### *Software Engineer*
 
-A Software Engineer currently learning C programming, Python and Data Science.
+A Software Engineer proficient in C programming, Python, Shell Scripting and MySQL.
+Data Scientist in the making.
 
 Skills: *REACT / JS / HTML / CSS*
 
-- 🌱 I’m currently learning C, Python, Machine Learning 
+- 🌱 I’m proficient in C, Python, MySQL currently learning Data Analysis. 
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me: abiollajames@protonmail.com 
 
