@@ -2,9 +2,6 @@
 #### *Software Engineer*
 
 A Software Engineer proficient in C programming, Python, Shell Scripting and MySQL.
-Data Scientist in the making.
-
-Skills: *REACT / JS / HTML / CSS*
 
 - 🌱 I’m proficient in C, Python, MySQL currently learning Data Analysis. 
 - 👯 I’m looking to collaborate on Open Source Projects 
