@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiollaghjames&label=Profile%20views&color=0e75b6&style=flat" alt="abiollaghjames" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiollaghjames" alt="abiollaghjames" /></a> </p>
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbiollaghJames/Abiollagh](https://github.com/AbiollaghJames/Abiollagh)
@@ -17,13 +15,12 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h2 align="left">Connect with me:</h2>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@abiollagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abiollagh" height="30" width="40" /></a>
 <a href="https://twitter.com/abiollaghj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abiollaghj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abiollagh-james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiollagh-james" height="30" width="40" /></a>
-<a href="https://hashnode.com/abiollagh james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abiollagh james" height="30" width="40" /></a>
+<a href="https://hashnode.com/abiollagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="abiollagh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="se" height="30" width="40" /></a>
 </p>
 
