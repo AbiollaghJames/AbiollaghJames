@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://dev.to/@abiollagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abiollagh" height="30" width="40" /></a>
 <a href="https://twitter.com/abiollaghj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abiollaghj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abiollagh-james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiollagh-james" height="30" width="40" /></a>
