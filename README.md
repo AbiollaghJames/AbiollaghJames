@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiollagh James</h1>
 <h3 align="center">An enthusiastic and competent Back-end Developer</h3>
-<img aign="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiollaghjames&label=Profile%20views&color=0e75b6&style=flat" alt="abiollaghjames" /> </p>
 
@@ -18,7 +17,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
 <a href="https://dev.to/@abiollagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abiollagh" height="30" width="40" /></a>
 <a href="https://twitter.com/abiollaghj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abiollaghj" height="30" width="40" /></a>
